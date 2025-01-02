@@ -8,7 +8,7 @@ This repository contains the ruleset for **Linkumori**, designed to sanitize URL
 - **Efficient and Lightweight**: Applies rules seamlessly without impacting performance.
 
 ## License
-This project is licensed under the **GNU General Public License v3.0 (GPL v3)**. For details, see the [LICENSE](LICENSE) file.
+This project is licensed under the **GNU General Public License v3.0 (GPL v3) Only **. For details, see the [LICENSE](LICENSE) file.
 
 **Copyright © 2025 Subham Mahesh**
 
